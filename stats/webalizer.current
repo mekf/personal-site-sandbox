@@ -1,0 +1,293 @@
+# Webalizer V2.01-10 Incremental Data - 04/06/2011 07:07:53
+2011 4 6 7 7 53
+164 141 16 34 20 6 1896477 102 19 0
+1 8 27 1 6
+15 14 104120 2 13 2
+36 30 285956 6 23 5
+21 17 114199 4 15 4
+17 14 109682 3 14 3
+30 25 184423 3 23 3
+45 41 1098097 1 14 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 5 13364 3
+2 1 4696 1
+1 0 161 1
+0 0 0 0
+27 25 843682 7
+10 8 109730 2
+10 8 58760 3
+8 8 195655 4
+0 0 0 0
+0 0 0 0
+2 0 1169 1
+14 11 79295 10
+65 60 501450 60
+0 0 0 0
+0 0 0 0
+11 9 71756 8
+0 0 0 0
+2 1 4180 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+5 5 12579 1
+0 0 0 0
+0
+0
+0
+141
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 26 0 125401 14 0
+/img/port_weissenhof01.jpg
+1 1 0 109362 0 0
+/img/port_haus04.jpg
+1 1 0 59452 0 0
+/img/port_haus03.jpg
+1 1 0 83543 0 0
+/img/staff_simon.jpg
+1 1 0 36250 0 0
+/img/staff_trung_tran.jpg
+1 1 0 21577 0 0
+/img/port_haus02.jpg
+1 1 0 65304 0 0
+/img/per_img.jpg
+1 3 0 131193 0 0
+/bio.html
+0 12 0 64417 3 0
+/img/port_haus01.jpg
+1 1 0 64564 0 0
+/contact.html
+0 9 0 53925 1 1
+/img/port_lindberg.jpg
+1 1 0 87571 0 0
+/quals.html
+0 9 0 59346 0 0
+/img/per_bw.jpg
+1 2 0 74302 0 0
+/favicon.ico
+0 4 0 6916 0 0
+/stylesheet.css
+0 11 0 9363 0 0
+/activities_company.html
+0 8 0 55524 0 1
+/explainations.html
+0 5 0 41955 0 2
+/activities.html
+0 10 0 78395 1 0
+/img/port_meridian.jpg
+1 1 0 60595 0 0
+/img/layout.png
+1 2 0 87960 0 0
+/img/staff_minh_vu.jpg
+1 1 0 34925 0 0
+/bio_books.html
+0 6 0 56405 0 0
+/bio_philosophy.html
+0 6 0 36795 0 0
+/img/bld_japanese.jpg
+1 1 0 51754 0 0
+/img/staff_minh_ha.jpg
+1 1 0 14667 0 0
+/bio_others.html
+0 6 0 42783 0 0
+/img/l_shadow.png
+1 4 0 12864 0 0
+/img/plz_understand.jpg
+1 1 0 41752 0 0
+/font/DroidSans-webfont.woff
+0 1 0 25060 0 0
+/img/r_shadow.png
+1 4 0 12836 0 0
+/img/the_world.jpg
+1 1 0 45575 0 0
+/font/graublauweb-webfont.woff
+0 1 0 27768 0 0
+/img/port_weissenhof02.jpg
+1 1 0 90542 0 0
+# End Of Table - urls
+# -sites- (monthly)
+64.255.180.58
+0 5 5 12579 1 1301869663
+/activities.html
+64.246.165.210
+0 2 1 4696 1 1301882289
+/
+66.249.71.137
+0 2 0 1169 1 1301826297
+/
+66.249.71.171
+0 1 0 161 1 1301721332
+/bio.html
+66.249.71.173
+0 1 0 161 1 1301799430
+/bio.html
+66.249.71.179
+0 1 0 1008 0 0
+-
+123.18.179.170
+0 8 8 108561 1 1301721439
+/bio.html
+99.198.108.242
+0 13 12 100290 1 1301834776
+/bio_books.html
+8.22.226.70
+0 25 20 151051 2 1302003752
+/quals.html
+99.198.119.98
+0 39 36 300870 3 1302007553
+/bio_books.html
+122.57.38.35
+0 45 41 1098097 2 1302073673
+/bio_others.html
+207.46.12.213
+0 2 2 3830 1 1301616883
+/
+66.249.71.235
+0 2 1 4180 1 1301766182
+/
+67.195.115.96
+0 3 2 4838 1 1301964380
+/
+64.246.165.170
+0 2 1 4696 1 1301878014
+/
+67.212.186.234
+0 13 12 100290 1 1301662329
+/bio_books.html
+# End Of Table - sites (monthly)
+# -sites- (daily)
+122.57.38.35
+0 45 41 1098097 2 1302073673
+/bio_others.html
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 101
+http://www.google.com/m
+1 1
+http://info101.mh-designs.org/contact.html
+1 6
+http://info101.mh-designs.org/quals.html
+1 1
+http://info101.mh-designs.org/index.html
+1 4
+http://info101.mh-designs.org/bio_philosophy.html
+1 1
+http://www.mh-designs.org/index.html
+1 1
+http://whois.domaintools.com/mh-design.asia
+1 1
+Google
+2 6
+http://www.mh-designs.org/stylesheet.css
+1 2
+http://www.mh-designs.org/
+1 1
+http://info101.mh-designs.org/activities.html
+1 4
+http://whois.domaintools.com/mh-designs.org
+1 1
+http://www.google.com
+1 5
+http://info101.mh-designs.org/bio_books.html
+1 4
+http://info101.mh-designs.org/activities_company.html
+1 13
+http://info101.mh-designs.org/bio.html
+1 4
+http://www.mh-designs.org/activities.html
+1 4
+http://www.mh-designs.org/bio.html
+1 4
+http://info101.mh-designs.org/
+1 5
+http://student.sim.vuw.ac.nz/paper/INFO101_10_T2/hanhat/HTMLWebsite/activities.html
+0 1
+# End Of Table - referrers
+# -agents- 
+MSIE 7.0
+0 2
+Googlebot/2.1
+0 7
+Netscape 6 compatible
+2 82
+Mozilla/5.0
+0 82
+Opera/9.8
+0 5
+Opera
+2 5
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 65
+Yahoo! Slurp
+0 3
+# End Of Table - agents
+# -search strings- 
+project management internship auckland construction
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

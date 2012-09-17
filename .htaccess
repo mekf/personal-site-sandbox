@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^mt-deco.co.cc$ [OR]
+RewriteCond %{HTTP_HOST} ^www.mt-deco.co.cc$
+RewriteRule ^/?$ "http\:\/\/deco\.mh\-dev\.org" [R=301,L]
+
